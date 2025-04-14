@@ -1,9 +1,9 @@
 <html lang="en">
 <head>
 <title>Resistor divider calculator</title>
-<link type="text/css" rel="stylesheet" href="site.css" />
-<script type="text/javascript" src="jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="site.js"></script>
+<link type="text/css" rel="stylesheet" href="css/site.css" />
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/site.js"></script>
 </head>
 <body>
 
